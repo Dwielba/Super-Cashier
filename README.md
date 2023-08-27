@@ -7,10 +7,14 @@ Pada Project kali ini saya akan membuat sebuah program kasir untuk menghitung to
 # B. Deskripsi Task
 1. "Main.py" adalah file utama dari Super Cashier
 2. Setiap "Tes Case" akan diberi nama "Tes 1" begitu dengan tes berikutnya
-# C. Output
+# C. Alur Program
+
+![Alur Program](https://github.com/Dwielba/Super-Cashier/blob/main/Flow%20Chart.jpg)
+
+# D. Output
 1. Program berisi list nama item, jumlah item, harga/item, dan total harga
 2. Program dapat memunculkan hal di atas sesuai dengan tes yang dilakukan
-# D. Hasil Tes
+# E. Hasil Tes
 1.Main Program
 
 ![Main](https://github.com/Dwielba/Super-Cashier/blob/main/Main.jpg)
