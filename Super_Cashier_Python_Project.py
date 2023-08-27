@@ -50,7 +50,7 @@ class Transaction:
             return total
 
 
-# Membuat objek
+# Membuat Class Transaction
 trnsct_123 = Transaction()
 
 # Menambahkan item
