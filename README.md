@@ -11,7 +11,9 @@ Pada Project kali ini saya akan membuat sebuah program kasir untuk menghitung to
 1. Program berisi list nama item, jumlah item, harga/item, dan total harga
 2. Program dapat memunculkan hal di atas sesuai dengan tes yang dilakukan
 # D. Hasil Tes
-1. Test 1
-2. Test 2
-3. Test 3
-4. Test 4
+1. Main
+   
+3. Test 1
+4. Test 2
+5. Test 3
+6. Test 4
