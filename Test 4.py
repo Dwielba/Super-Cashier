@@ -50,19 +50,19 @@ class Transaction:
             return total
 
 
-# Membuat objek dari class Transaction
+# Membuat Class Transaction
 trnsct_123 = Transaction()
 
-# Menambahkan item belanja
+# Menambahkan item
 trnsct_123.add_item(["Mobil", 2, 100000])
 trnsct_123.add_item(["Mie", 1, 1500])
 trnsct_123.add_item(["Tempe", 3, 3000])
 
-# Menambahkan item baru menggunakan metode add_item()
+# Menambahkan item baru
 trnsct_123.add_item(["Ayam Goreng", 2, 20000])
 trnsct_123.add_item(["Pasta gigi", 3, 15000])
 
-# Menghapus semua item belanja menggunakan metode reset_transaction()
+# Menghapus semua item
 # trnsct_123.reset_transaction()
 
 # Menampilkan transaksi sebelum menghitung total harga
