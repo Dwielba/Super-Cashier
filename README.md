@@ -11,9 +11,22 @@ Pada Project kali ini saya akan membuat sebuah program kasir untuk menghitung to
 1. Program berisi list nama item, jumlah item, harga/item, dan total harga
 2. Program dapat memunculkan hal di atas sesuai dengan tes yang dilakukan
 # D. Hasil Tes
-1. Main
-   
-3. Test 1
-4. Test 2
-5. Test 3
-6. Test 4
+1.Main Program
+
+![Main](https://github.com/Dwielba/Super-Cashier/blob/main/Main.jpg)
+
+2. Test 1
+
+![Test 1](https://github.com/Dwielba/Super-Cashier/blob/main/Test%201.jpg)
+
+3. Test 2
+
+![Test 2](https://github.com/Dwielba/Super-Cashier/blob/main/Test%202.jpg)
+
+4. Test 3
+
+![Test 3](https://github.com/Dwielba/Super-Cashier/blob/main/Tes%203.jpg)
+
+5. Test 4
+
+![Test 4](https://github.com/Dwielba/Super-Cashier/blob/main/Test%204.jpg)
